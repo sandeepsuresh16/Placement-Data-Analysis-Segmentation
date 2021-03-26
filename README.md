@@ -4,3 +4,6 @@ Segmentation is the process of separating data into distinct groups. Here I use 
  # Data Source
  https://www.kaggle.com/
  
+ 
+# About this file
+This data set consists of Placement data of students in our campus. It includes secondary and higher secondary school percentage and specialization. It also includes degree specialization, type and Work experience and salary offers to the placed students
